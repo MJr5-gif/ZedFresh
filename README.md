@@ -25,4 +25,4 @@ ZedFresh delivers fresh produce, meat, and everyday groceries to homes and offic
 Not yet but When i deploy the link will come here
 
 ## Author
-Michael Jr — [LinkedIn](https://www.linkedin.com/in/michaeljr) · [GitHub](https://github.com/michaeljr)
+Michael Jr — [LinkedIn](https://www.linkedin.com/in/michael-lungu-a82661364/) · [GitHub](https://github.com/MJr5-gif)
