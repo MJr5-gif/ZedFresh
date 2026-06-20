@@ -1,4 +1,4 @@
-# ZedFresh Groceries 🛒
+# ZedFresh Groceries 
 
 A landing page for a fictional grocery delivery startup based in Lusaka, Zambia. Built as part of my Week 1 HTML practice.
 
